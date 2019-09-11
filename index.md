@@ -1,3 +1,3 @@
 A web site
-[link to ingredients](ingredients)
-[link to instructions](instrucions)
+[link to ingredients](ingredients.md)
+[link to instructions](instrucions.md)
